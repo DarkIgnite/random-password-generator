@@ -1,5 +1,3 @@
-# random-password-generator.github.io
-Random Password Generator
 # 🔐 Random Password Generator
 
 Aplikasi web sederhana untuk membuat **password acak yang kuat** dengan berbagai kombinasi huruf, angka, dan simbol.  
