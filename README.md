@@ -2,7 +2,7 @@
 
 Aplikasi web sederhana untuk membuat **password acak yang kuat** dengan berbagai kombinasi huruf, angka, dan simbol.  
 Dibuat menggunakan **HTML, CSS, dan JavaScript murni** dengan desain modern dan mudah digunakan.  
-
+https://darkignite.github.io/random-password-generator/
 ---
 
 ## ✨ Fitur Utama
